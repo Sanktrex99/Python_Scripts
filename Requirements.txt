@@ -1,4 +1,0 @@
-The following Scripts requires:-
-
-wikipedia module
-
