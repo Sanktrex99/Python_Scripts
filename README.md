@@ -6,6 +6,7 @@ Please download all the necessary modules by using "pip install <module_name>
 
 If you are a beginner just copy paste this commands in your terminal
 '''
+
 pip install requests
 
 
